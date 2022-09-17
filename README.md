@@ -1,3 +1,7 @@
 # Telecom-churn-rate-Exploratory-Data-Analysis
-Consist EDA of Telco Churn Rate
-Dataset from https://www.kaggle.com/code/supratimhaldar/telco-customer-churn-exploratory-data-analysis/data
+Consist EDA of Telco Churn Rate 
+1.Read data
+2. Prepare data for Analysis
+  a. Explore data
+  b. Pre-process and clean-up data
+  c. Analyze data (through visualization)
